@@ -1,3 +1,3 @@
 # BinarySearchHW
 
-Modeling Binary Search in Python for DSA class
+Code for modeling Binary Search in Python Homework
